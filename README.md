@@ -15,7 +15,4 @@ textual prompts.
 - **`requirements.txt`**: File containing the Python dependencies required for running the application.
 - **`img.png`**: Image generated using DALL-E.
 
-[Live Demo](https://prashver-imagicraft.streamlit.app/)
-
-https://github.com/prashver/text-to-image-generation-with-DALL-E/assets/84378440/9c2bc05f-67ee-450e-bf86-01c80c5c15fa
 
